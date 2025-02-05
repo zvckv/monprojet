@@ -1,2 +1,3 @@
 Bonjour tout le monde 
-ke fais une modification depuis github 
+je fais une modification depuis github 
+C'est trop l'éclat de faire du Git 
